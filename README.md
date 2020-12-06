@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/QvgdsXH/fondo-Games.png" alt="c"/>
+
 # First Java Project (Retro Games): Space Invaders - Pong  - Snake
 Java project created in 2019-2020. It consists of three retro games (Pong + Space Invaders + Snake) created from scratch.
 
@@ -29,4 +31,3 @@ NOTE: It is assumed that the all gives from the user will be valid, the program 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/pol-piñol-castuera-6349261a2/" target="_blank">  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img src="https://i.ibb.co/Kb5sXBd/Sin-t-tulo.png" alt="c" width="40" height="40"/>
