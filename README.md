@@ -23,6 +23,8 @@ NOTE: It is assumed that the all gives from the user will be valid, the program 
 
 - 📫 How to reach me **polpinolcastuera@gmail.com**
 
+- <i class="fab fa-linkedin"></i> How to reach me **polpinolcastuera@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pol piñol castuera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pol piñol castuera" height="30" width="40" />Pol Piñol Castuera</a>
